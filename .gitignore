@@ -8,7 +8,7 @@ venv/
 # Data & Models
 data/*.csv
 models/*.pkl
-outputs/*.png
+
 
 # IDE 
 .vscode/
